@@ -18,16 +18,33 @@
 ## 🛠️ Languages and Tools  
 
 <p align="left"> 
+  <!-- Core Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+
+  <!-- Frameworks / Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
+
+  <!-- Embedded / Hardware -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/> 
+  <img src="https://img.shields.io/badge/STM32-blue?logo=stmicroelectronics&logoColor=white" height="40"/> 
+  <img src="https://img.shields.io/badge/Keil_uVision-blue?logo=arm&logoColor=white" height="40"/> 
+  <img src="https://img.shields.io/badge/MPLAB-green?logo=microchip&logoColor=white" height="40"/> 
+
+  <!-- AI / Edge / CV -->
+  <img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?logo=nvidia&logoColor=white" height="40"/> 
+  <img src="https://img.shields.io/badge/DeepStream-A6D800?logo=nvidia&logoColor=white" height="40"/> 
+  <img src="https://img.shields.io/badge/Computer_Vision-blueviolet?logo=opencv&logoColor=white" height="40"/> 
+  <img src="https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white" height="40"/> 
+
+  <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> 
 </p>
+
 
 ---
 
