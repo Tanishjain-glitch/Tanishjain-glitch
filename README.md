@@ -1,5 +1,3 @@
-
-<!--
 # Hi 👋, I'm Tanish Nitesh Jain  
 
 🚀 A passionate **Electronics & Telecommunications Engineer** and **AI-Embedded Systems Enthusiast**  
@@ -13,7 +11,7 @@
 
 ## 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-jain-94102722b/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-tanishj7879@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tanishj7879@gmail.com)  
 
 ---
 
@@ -35,10 +33,9 @@
 
 ## 📊 GitHub Stats  
 
-![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishjain-glitch/Tanishjain-glitch&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishjain-glitch/Tanishjain-glitch&layout=compact&theme=radical)  
+![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishjain-glitch&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishjain-glitch&layout=compact&theme=radical)  
 
 ---
 
-⭐️ From [Tanish Nitesh Jain](https://github.com/YourGitHubUsername)
-
+⭐️ From [Tanish Nitesh Jain](https://github.com/Tanishjain-glitch)
