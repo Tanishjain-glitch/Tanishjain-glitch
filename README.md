@@ -1,16 +1,46 @@
 ## Hi there 👋
 
+
 <!--
-**Tanishjain-glitch/Tanishjain-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Tanish Nitesh Jain  
 
-Here are some ideas to get you started:
+🚀 A passionate **Electronics & Telecommunications Engineer** and **AI-Embedded Systems Enthusiast**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Embedded Systems, Edge AI, and Computer Vision**  
+- 🌱 I’m currently learning **ROS2, RAG-based assistants, and Agentic AI**  
+- 💬 Ask me about **Embedded C, IoT, Python, Computer Vision, STM32, ESP32, Jetson Nano, AI/ML**  
+- 📫 How to reach me: **tanishj7879@gmail.com**  
+
+---
+
+## 🌐 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanish-jain-94102722b/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-tanishj7879@gmail.com)  
+
+---
+
+## 🛠️ Languages and Tools  
+
+<p align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> 
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+![Tanish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanishjain-glitch/Tanishjain-glitch&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishjain-glitch/Tanishjain-glitch&layout=compact&theme=radical)  
+
+---
+
+⭐️ From [Tanish Nitesh Jain](https://github.com/YourGitHubUsername)
+
